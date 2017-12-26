@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  <component name="ProjectRootManager">
+=======
+>>>>>>> origin
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -7,4 +13,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+>>>>>>> dfdccbaa4987f88a5087ce13144c408e75991e45
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+>>>>>>> origin
 </project>
