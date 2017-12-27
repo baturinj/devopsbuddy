@@ -24,3 +24,4 @@ target
 .classpath
 .settings
 workspace.xml
+/.idea/workspace.xml
