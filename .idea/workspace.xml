@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="200f4d7f-d348-4e97-ade4-85de3ba78aa8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/images/browser-icon-chrome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/images/browser-icon-firefox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/images/browser-icon-safari.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/devopsbuddy/web/controllers/ContactController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/devopsbuddy/web/controllers/copyController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/devopsbuddy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/contact/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/copy/copy.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/i18n/messages.properties" afterPath="$PROJECT_DIR$/src/main/resources/i18n/messages.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/css/styles.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/common/header.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/common/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/common/navbar.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/common/navbar.html" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,52 +14,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/contact/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-              <folding>
-                <marker date="1514580961840" expanded="true" signature="271:289" ph="Bootstrap starter template" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="copy.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/copy/copy.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="34" column="57" lean-forward="true" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
-              <folding>
-                <element signature="e#4957#4963#0" expanded="true" />
-                <element signature="e#4985#4993#0" expanded="true" />
-                <element signature="e#5018#5026#0" expanded="true" />
-                <marker date="1514581014671" expanded="true" signature="509:521" ph="Who we are" />
-                <marker date="1514581014671" expanded="true" signature="573:584" ph="We are a community of DevOps engineers who has the goal of helping organisations deliver business value faster, through technology, while having fun" />
-                <marker date="1514581014671" expanded="true" signature="1482:1505" ph="I am an experienced leader in delivering Quality Software @ Speed. My main areas of expertise cover DevOps, Agile and Lean transformations, testing automation, technology leadership and continuous deployment. Professional Scrum Master Level I, a certified AWS Solution Architect, committed to deliver business value through technical excellence. I am comfortable in all aspects of IT methodology leadership, from Agile to Lean, to more pre-emptive methodologies such as UP and Waterfall. I have got a long proven track of turning difficult projects  into success stories and in re-gaining business trust in difficult situations." />
-                <marker date="1514581014671" expanded="true" signature="1606:1629" ph="View details &gt;&gt;" />
-                <marker date="1514581014671" expanded="true" signature="2219:2242" ph="I am an experienced leader in delivering Quality Software @ Speed. My main areas of expertise cover DevOps, Agile and Lean transformations, testing automation, technology leadership and continuous deployment. Professional Scrum Master Level I, a certified AWS Solution Architect, committed to deliver business value through technical excellence. I am comfortable in all aspects of IT methodology leadership, from Agile to Lean, to more pre-emptive methodologies such as UP and Waterfall. I have got a long proven track of turning difficult projects  into success stories and in re-gaining business trust in difficult situations." />
-                <marker date="1514581014671" expanded="true" signature="2343:2366" ph="View details &gt;&gt;" />
-                <marker date="1514581014671" expanded="true" signature="2957:2980" ph="I am an experienced leader in delivering Quality Software @ Speed. My main areas of expertise cover DevOps, Agile and Lean transformations, testing automation, technology leadership and continuous deployment. Professional Scrum Master Level I, a certified AWS Solution Architect, committed to deliver business value through technical excellence. I am comfortable in all aspects of IT methodology leadership, from Agile to Lean, to more pre-emptive methodologies such as UP and Waterfall. I have got a long proven track of turning difficult projects  into success stories and in re-gaining business trust in difficult situations." />
-                <marker date="1514581014671" expanded="true" signature="3081:3104" ph="View details &gt;&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/common/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -1082,7 +1023,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514578945513</updated>
-      <workItem from="1514578956168" duration="2594000" />
+      <workItem from="1514578956168" duration="3369000" />
     </task>
     <servers />
   </component>
@@ -1095,7 +1036,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7589000" />
+    <option name="totallyTimeSpent" value="8364000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1108,7 +1049,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1014" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1117,9 +1057,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.34861407" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32879817" sideWeight="0.78038377" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879817" sideWeight="0.78038377" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.6513859" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32993197" sideWeight="0.6513859" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26865673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1544,24 +1484,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/contact/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-          <folding>
-            <marker date="1514580961840" expanded="true" signature="271:289" ph="Bootstrap starter template" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/common/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/copy/copy.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1579,6 +1501,24 @@
             <marker date="1514581014671" expanded="true" signature="2957:2980" ph="I am an experienced leader in delivering Quality Software @ Speed. My main areas of expertise cover DevOps, Agile and Lean transformations, testing automation, technology leadership and continuous deployment. Professional Scrum Master Level I, a certified AWS Solution Architect, committed to deliver business value through technical excellence. I am comfortable in all aspects of IT methodology leadership, from Agile to Lean, to more pre-emptive methodologies such as UP and Waterfall. I have got a long proven track of turning difficult projects  into success stories and in re-gaining business trust in difficult situations." />
             <marker date="1514581014671" expanded="true" signature="3081:3104" ph="View details &gt;&gt;" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/contact/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding>
+            <marker date="1514580961840" expanded="true" signature="271:289" ph="Bootstrap starter template" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/common/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
